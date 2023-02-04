@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-practico-asincronismo",
+  "version": "1.0.0",
+  "description": "Proyecto practico para trabaja con el asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianA-R/async-proyect.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Adrian Restrepo adriale0902@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianA-R/async-proyect/issues"
+  },
+  "homepage": "https://github.com/adrianA-R/async-proyect#readme"
+}
